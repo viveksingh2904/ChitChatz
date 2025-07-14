@@ -2,7 +2,7 @@
 
 ![Cover Image](https://github.com/Abhishek-singh-007/ChitChatz/blob/main/images/Screenshot%202025-07-06%20193123.png)
 
----Created By Abhishek Singh [Connect Me](https://my-portfolio-six-tau-59.vercel.app/) <br/>
+---Created By Vivek Singh<br/>
 Visit the website: [Join]( https://chitchatz-he8g.onrender.com/login)
 
 ## 📌 About the Project
